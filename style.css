@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lato', sans-serif;
+    text-transform: capitalize;
+}
+
+section {
+    display: flex;
+    margin: 0%;
+
+
+}
+
+.lets-help {
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    height: 555px;
+    width: 3339px;
+    background-position: center;
+    margin: 0%;
+}
+
+.lets-help h1 {
+    text-align: center;
+    color: white;
+    padding-top: 1%;
+    font-size: 70px;
+    font-weight: 700;
+    text-shadow: 30px 30px 60px rgb(12, 216, 131);
+
+}
+
+.lets-help p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    text-shadow: 20px 20px 40px rgb(12, 216, 131);
