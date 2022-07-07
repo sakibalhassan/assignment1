@@ -26,8 +26,7 @@ section {
     padding-top: 1%;
     font-size: 70px;
     font-weight: 700;
-    text-shadow: 30px 30px 60px rgb(12, 216, 131);
-
+    text-shadow: 30px 30px 60 px rgb(12, 216, 131);
 }
 
 .lets-help p {
@@ -36,3 +35,238 @@ section {
     font-size: 20px;
     font-weight: 400;
     text-shadow: 20px 20px 40px rgb(12, 216, 131);
+}
+
+#button {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px 40px;
+    margin-left: 45%;
+    background-color: rgb(12, 216, 131);
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+#button-input {
+    text-decoration: none;
+}
+
+
+.donate-today h1 {
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 50px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.donate-today p {
+    text-align: center;
+    margin-left: 50%;
+    font-weight: 700;
+    padding-top: -6%;
+
+
+}
+
+.one {
+
+    width: 100%;
+    height: auto;
+    background-color: rgba(192, 192, 192, 0.192);
+    border-radius: 10px;
+    margin: 7px;
+    padding-left: 5px;
+    box-shadow: 1%;
+}
+
+#one {
+    width: 100px;
+    height: auto;
+    background-color: rgba(192, 192, 192, 0.192);
+    border-radius: 10px;
+    margin: 7px;
+    padding-left: 5px;
+    border: 2px solid red;
+}
+
+.other {
+    display: flex;
+
+
+}
+
+
+
+#other-amount {
+    width: 100%;
+    overflow: hidden;
+    border-bottom: 1px solid gray;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#other-amount input {
+    width: 100%;
+    padding-left: 350px;
+    overflow: hidden;
+    margin: 8px o;
+    font-size: 20px;
+    border: none;
+
+}
+
+#other-amount form {
+    margin-left: ;
+}
+
+.our-donate-plan {
+    display: flex;
+    margin-bottom: 150px;
+
+
+
+}
+
+.button-donate-now-a a {
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(12, 216, 131);
+    margin-left: 560px;
+    padding: 20px 40px;
+    border-radius: 10px;
+
+
+}
+
+.food-for {
+    width: 60%;
+    text-align: center;
+    margin: 5%;
+    padding-left: 0%;
+    background-color: rgba(255, 228, 196, 0.425);
+    border-radius: 3%;
+}
+
+
+.food-for img {
+    padding-top: 15%;
+    padding-right: 200px;
+    padding-left: 4%;
+
+
+}
+
+.shelter {
+    width: 60%;
+    text-align: center;
+    margin: 5%;
+    padding-left: 0%;
+    background-color: rgba(233, 150, 122, 0.664);
+    border-radius: 3%;
+}
+
+.shelter img {
+    padding-top: 15%;
+    padding-right: 200px;
+    padding-left: 4%;
+}
+
+.education {
+    width: 60%;
+    text-align: center;
+    margin: 5%;
+    padding-left: 0%;
+    background-color: rgba(233, 222, 122, 0.603);
+    border-radius: 3%;
+}
+
+.education img {
+    padding-top: 15%;
+    padding-right: 200px;
+    padding-left: 4%;
+}
+
+#donation {
+    display: flex;
+
+
+}
+
+.your-donation {
+    width: 60%;
+    padding-left: 4%;
+}
+
+.your-donation img {
+    width: 90%;
+    height: 80%;
+}
+
+#button-how {
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 3%;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    padding: 40px 60px;
+    background-color: rgba(210, 105, 30, 0.548);
+    margin-left: 360px;
+    margin-right: 200px;
+    border-radius: 10px;
+
+
+}
+
+.form-box {
+    width: 100%;
+    margin-left: 100px;
+
+
+}
+
+
+.form-box input {
+    padding: 15px 40px;
+    background-color: darkgray;
+    border: none;
+
+}
+
+.form-box button {
+    padding: 15px;
+    margin-left: -5px;
+    color: white;
+    background-color: crimson;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: black;
+
+    padding-left: 35px;
+    height: 40px;
+    color: rgb(243, 14, 6);
+    text-align: center;
+
+}
+
+footer h1 {
+    pad: ;
+}
